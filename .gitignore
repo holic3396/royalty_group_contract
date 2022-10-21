@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+.env
+coverage
+coverage.json
+typechain
+*.log
+*.old
+#Hardhat files
+cache
+artifacts
+bin
+.openzeppelin
+.deps
+abi/
+scripts/config.json
+.vscode/settings.json
